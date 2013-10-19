@@ -1,0 +1,8 @@
+{
+  "name": "grunt-contrib-osxwatch",
+  "version": "0.0.1",
+  "dependencies": {
+    "lodash": "~2.2.1",
+    "minimatch": "~0.2.12"
+  }
+}
